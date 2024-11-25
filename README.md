@@ -2,7 +2,7 @@
 
 
 paper:
-https://arxiv.org/pdf/2407.10240
+https://www.mdpi.com/2673-2688/5/3/71
 
 xLSTMTime for time series forecasting 
 
